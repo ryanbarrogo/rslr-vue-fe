@@ -1,0 +1,15 @@
+.v-btn {
+    &.btn-primary {
+        color: $RSLR_WHITE;
+        background: $RSLR_BLUE;
+    }
+
+    &.btn-secondary {
+        color: $RSLR_WHITE;
+        background: $RSLR_GREY;
+    }
+
+    &.btn-tertiary {
+        border: 1px solid $RSLR_BLUE;
+    }
+}

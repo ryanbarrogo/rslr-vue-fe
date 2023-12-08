@@ -1,0 +1,21 @@
+.v-app-bar {
+    .app-bar-title {
+        background: linear-gradient(237.18deg, #1CAAC9 0%, #2276AA 100%);
+        transition-duration: .5s;
+        transition-delay: .2s;
+        transition-timing-function: $RSLR_TRANSITION;
+        border-radius: 0 0 110px 0;
+        color: $RSLR_WHITE;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: bold;
+        height: 100%;
+    }
+
+    .side-bar-drawer {
+        position: absolute;
+        left: 0;
+        padding-left: 0;
+        color: $RSLR_WHITE;
+    }
+}
